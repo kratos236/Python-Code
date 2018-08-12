@@ -21,7 +21,7 @@
 ## 2.3 DPPO       
 ### DPPO.py
 #
-## 2.4 OpenAI gym -- 
+## 2.4 OpenAI gym 
 ### learing_and_test.py
 ### grid_mdp.py
 ### cartpole_notes.py
